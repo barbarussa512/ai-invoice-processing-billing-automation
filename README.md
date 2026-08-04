@@ -1,6 +1,19 @@
+<p align="center">
+
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-blue)
+![Google](https://img.shields.io/badge/Google-Workspace-green)
+![License](https://img.shields.io/badge/Status-Completed-success)
+
+</p>
 # 🧾 AI Invoice Processing & Billing Automation
 
 An AI-powered invoice processing workflow built with **n8n** that automatically detects new invoices uploaded to Google Drive, extracts structured data using AI, stores billing information in Google Sheets, and sends automated billing emails.
+
+---
+## 📷 Workflow
+
+![Workflow](screenshots/ai-invoice-processing-billing-automation.png)
 
 ---
 
@@ -26,12 +39,6 @@ An AI-powered invoice processing workflow built with **n8n** that automatically 
 - Gmail API
 - PDF Extraction
 - AI Automation
-
----
-
-## 📷 Workflow
-
-![Workflow](screenshots/ai-invoice-processing-billing-automation.png)
 
 ---
 
