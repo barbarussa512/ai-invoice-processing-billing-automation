@@ -31,7 +31,7 @@ An AI-powered invoice processing workflow built with **n8n** that automatically 
 
 ## 📷 Workflow
 
-![Workflow](screenshots/ai-invoice-processing.png)
+![Workflow](screenshots/ai-invoice-processing-billing-automation.png)
 
 ---
 
